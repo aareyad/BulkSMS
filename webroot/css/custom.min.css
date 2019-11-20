@@ -1,0 +1,20 @@
+.bubt-validation-message p {
+	color:red;
+	font-size:15px;
+}
+.bubt-margin {
+	margin-top:50px;
+}
+.portlet.bubt-margin {
+	border:none !important;
+}
+.bubt-form-width {
+	width:50%;
+}
+
+.bubt-helight {
+	color:red;
+}
+.f-right {
+	float:right !important;
+}
